@@ -1,7 +1,7 @@
 # Hello, I'm Rodrigo Galvao
 
-Sou formado em Sistemas de Informação (ênfase em Redes) e tenho especialização em Redes de Computadores. Atualmente trabalho como analista de redes e estou cursando o Next (Cesar School) e migrar para desenvolvimento de software. 
-Estudei Python e agora vou iniciar Java. Vamos nessa!
+Sou formado em Sistemas de Informação e tenho especialização em Redes de Computadores. Atualmente trabalho como analista de redes e estou cursando o Next (Cesar School). Desejo o quanto antes migrar para desenvolvimento de software. 
+Estudei Python e agora Java. Vamos nessa!
 
 Aprendendo Inglês - 
 Proativo - 

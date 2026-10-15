@@ -11,6 +11,10 @@ Formado em Sistemas de Informação, com especialização em Redes de Computador
 - Sistemas e automações para o setor público (PHP, Laravel/Filament, Scriptcase, Apps Script)
 - Apps web em Python/Flask e geoprocessamento (GeoJSON, Leaflet)
 
+### Projetos
+
+- **Agenda de Salas** — Sistema de agendamento de salas de reunião com aprovação, bloqueio de salas, agendamentos recorrentes e avisos por e-mail e Telegram. *Laravel 12 · FilamentPHP · PostgreSQL · Docker* · 🔒 código privado
+
 ### Stack
 
 <p>

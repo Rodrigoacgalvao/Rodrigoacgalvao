@@ -1,22 +1,30 @@
-# Hello, I'm Rodrigo Galvao
+# Rodrigo Galvão
 
-Sou formado em Sistemas de Informação e tenho especialização em Redes de Computadores. Atualmente trabalho como analista de redes e estou cursando o Next (Cesar School). Desejo o quanto antes migrar para desenvolvimento de software. 
-Estudei Python e agora Java. Vamos nessa!
+Recife/PE · Desenvolvedor na APAC (Agência Pernambucana de Águas e Clima)
 
-Aprendendo Inglês - 
-Proativo - 
-Trabalho em equipe
+Formado em Sistemas de Informação, com especialização em Redes de Computadores. Trabalho com automação, desenvolvimento de aplicativos e sistemas, assistentes virtuais com IA no WhatsApp e infraestrutura self-hosted.
 
+### O que eu faço
 
+- Assistentes virtuais com IA no WhatsApp (n8n, Evolution API, WhatsApp Cloud API, LLMs)
+- Infra em VPS: Docker, Nginx Proxy Manager, Cloudflare
+- Sistemas e automações para o setor público (PHP, Laravel/Filament, Scriptcase, Apps Script)
+- Apps web em Python/Flask e geoprocessamento (GeoJSON, Leaflet)
 
- <div>
-  <a href="https://github.com/Rodrigoacgalvao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigoacgalvao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigoacgalvao&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+### Stack
 
-##
-<div>
-    <a href = "mailto:rodrigoacgalvao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>    
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+</p>
+
+### Contato
+
+<a href="mailto:rodrigoacgalvao@gmail.com"><img src="https://img.shields.io/badge/rodrigoacgalvao@gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>

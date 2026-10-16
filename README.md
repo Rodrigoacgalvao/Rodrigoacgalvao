@@ -14,6 +14,7 @@ Formado em Sistemas de Informação, com especialização em Redes de Computador
 ### Projetos
 
 - **Agenda de Salas** — Sistema de agendamento de salas de reunião com aprovação, bloqueio de salas, agendamentos recorrentes e avisos por e-mail e Telegram. *Laravel 12 · FilamentPHP · PostgreSQL · Docker* · 🔒 código privado
+- **Gestão de Projetos** — Painel de gestão de projetos da APAC. *Laravel 12 · FilamentPHP* · 🔒 código privado
 
 ### Stack
 
